@@ -47,17 +47,10 @@
   <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-346AC1?style=for-the-badge&amp;logo=androidstudio&amp;logoColor=white" alt="Android Studio" /></a>
 </p>
 
-## 🚀 Projects & PoCs
-
-앱 프로젝트와 기능 단위의 실험을 저장소별로 정리합니다.
-
-- **Projects** — 아이디어를 실제로 사용할 수 있는 앱으로 구현
-- **PoCs** — 특정 기능이나 기술의 동작 가능성을 작은 범위에서 검증
-
-각 저장소에는 구현 목적, 사용 기술, 실행 방법과 데모, 검증 범위와 한계를 담습니다.
-
-<!-- 공개할 프로젝트와 PoC가 준비되면 이름, 저장소 링크, 한 줄 설명을 이곳에 추가합니다. -->
 
 ---
 
+연락 및 협력 문의는 정중히 거절합니다
+
+---
 *Small experiments. Working projects.*
